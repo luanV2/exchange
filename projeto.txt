@@ -1,0 +1,19 @@
+2024-09-29 15:05:30.464250: Login bem-sucedido 
+2024-09-29 15:05:30.464250: Escolheu a opcao 7
+2024-09-29 17:42:46.991149: Login bem-sucedido 
+2024-09-29 17:42:46.991149: Escolheu a opcao 3
+2024-09-29 17:42:46.991149: Depositou R$ 1000.0
+2024-09-29 17:42:46.991149: Escolheu a opcao 5
+2024-09-29 17:42:46.991149: Comprou BTC + Valor: R$ 300
+2024-09-29 17:43:56.349191: Login bem-sucedido 
+2024-09-29 17:43:56.349191: Escolheu a opcao 3
+2024-09-29 17:43:56.349191: Depositou R$ 1000.0
+2024-09-29 17:43:56.349191: Escolheu a opcao 5
+2024-09-29 17:43:56.349191: Comprou BTC + Valor: R$ 250
+2024-09-29 17:47:02.216552: Login bem-sucedido 
+2024-09-29 17:47:02.216552: Escolheu a opcao 3
+2024-09-29 17:47:02.216552: Depositou R$ 1000.0
+2024-09-29 17:47:02.216552: Escolheu a opcao 5
+2024-09-29 17:47:02.216552: Comprou BTC + Valor: R$ 250
+2024-09-29 17:47:02.216552: Escolheu a opcao 5
+2024-09-29 17:47:02.216552: Comprou ETH + Valor: R$ 300
